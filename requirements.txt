@@ -1,0 +1,9 @@
+SpeechRecognition
+PyAudio
+pyttsx3
+sqlalchemy
+pandas
+numpy
+pyfiglet
+termcolor
+colorama
